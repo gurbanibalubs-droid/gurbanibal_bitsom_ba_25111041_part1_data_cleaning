@@ -2,7 +2,7 @@
 
 **Student:** Gurbani Bal
 **Student ID:** BITSOM_BA_25111041
-**Program:** PGDM General Management — XLRI Jamshedpur (Batch 2026–27)
+**Program:** Business Analytics with Gen & Agentic AI
 **Repository:** `gurbanibal_bitsom_ba_25111041_part1_data_cleaning`
 
 ---
